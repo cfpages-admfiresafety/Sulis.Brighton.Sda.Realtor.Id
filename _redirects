@@ -7,3 +7,5 @@
 /surabaya-pusat/:perumahan /perumahan/:perumahan 301
 /surabaya-utara/:perumahan /perumahan/:perumahan 301
 /surabaya-selatan/:perumahan /perumahan/:perumahan 301
+/category/perumahan/* /perumahan/ 301
+/category/wilayah/:wilayah /:wilayah 301
