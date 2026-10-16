@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /cdn-cgi/
+
+Sitemap: https://sulis.brighton.sda.realtor.id/sitemap-complete.xml
